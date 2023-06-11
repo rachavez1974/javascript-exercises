@@ -19,7 +19,5 @@ const palindromes = function (string) {
   }
 };
 
-console.log(standarizeString('Racecar!'))
-console.log(palindromes('Racecar!'))
 // Do not edit below this line
 module.exports = palindromes;
